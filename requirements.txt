@@ -1,0 +1,7 @@
+jupter
+d2l==0.17.5
+re
+collections
+torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+random
+jieba
